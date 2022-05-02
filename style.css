@@ -371,7 +371,7 @@ section .title::after{
 
 /* internships section styling */
 .internships .title::after{
-    content: "My Working Stuffs";
+    content: "My Works";
 }
 .internships .carousel .card{
     background: #222;
